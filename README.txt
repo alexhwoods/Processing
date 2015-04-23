@@ -1,6 +1,6 @@
 This repository is full of Processing files, that each demonstrate something cool that you can do with the Processing language.
 
-Sometimes, in a sub-directory, the files don't run together. Perhaps one is an animated version and one is not. If you download the whole sub-directory and just hit run after you open it up in Processing, it should work.
+Sometimes, in a sub-directory, the files don't run together. Perhaps one is an animated version and one is not. If you download the whole sub-directory and just hit run after you open it up in Processing, it should work, because I've commented one out so none of these files will conflict.
 
 I encourage you to play around with the code, but know that you are likely to get that error, so if two files in a sub-directory appear to be pretty different, and one doesn't refer to the other at all (and vice versa), run just one at a time.
 
