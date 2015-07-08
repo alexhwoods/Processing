@@ -1,10 +1,11 @@
 //first try :)
 
 size(600,200);
-smooth();
 background(150);
+
 stroke(#0BE2FF);
 strokeWeight(15);
+
 point (100,100);
 point (150,100);
 point (200,100);
